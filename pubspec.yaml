@@ -1,0 +1,94 @@
+name: easycare
+description: easy care
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.2+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.5.1
+  http: 0.13.4
+  shared_preferences: ^2.0.8
+  webview_flutter: ^3.0.0
+  permission_handler: 8.3.0
+  scan: 1.5.0 # 扫码
+  flutter_form_builder: 7.0.0
+#  flutter_nfc_kit: ^3.1.0 # nfc
+  qr_flutter: ^4.0.0 # 二维码生成
+  disable_screenshots: 0.2.0
+  fluttertoast: ^8.0.8
+  connectivity_plus: ^2.1.0
+  url_launcher: ^6.0.9 # flutter跳转外部链接
+  charts_flutter: ^0.12.0 # flutter图表
+  fl_chart: ^0.45.1 # flutter图表
+  flutter_svg: ^1.0.3 # svg图片展示
+  photo_view: ^0.12.0 # 图片展示
+  animated_text_kit: ^4.2.1 # 艺术字
+  flutter_slidable: ^1.2.0 # 可滑动列表项
+  easy_popup: ^1.0.0 # 弹出层
+  flutter_easyrefresh: ^2.2.1 # 下拉刷新
+#  search_choices: ^2.0.19 # 下拉选
+  flutter_carousel_widget: ^1.0.3 # 滑动模块，轮播图
+  find_dropdown: ^1.0.0 # 下拉
+  flutter_markdown: ^0.6.9 # markdown
+  sqflite: ^2.0.1 # 本地数据库
+  stomp_dart_client: ^0.4.4 # ws链接RabbitMQ
+  form_builder_image_picker: ^2.0.0 # 从相册或相机中为flutter_form_builder包选择图像的字段
+  form_builder_file_picker: ^2.0.0 # 文件表单上传组件
+  file_picker: ^4.6.0 # 文件选择
+  image_picker: ^0.8.5+3 # 图片选择
+  roundcheckbox: ^2.0.4+1
+  date_time_picker: ^2.1.0 # 时间选择
+  flutter_staggered_grid_view: ^0.6.2
+  flutter_plugin_record_plus: ^0.0.8 # 录音上传
+  audioplayer: 0.8.1
+  audioplayer_web: 0.7.1
+  flutter_pickers: ^2.1.9
+  date_ranger: ^0.0.1
+  syncfusion_flutter_datepicker: ^20.1.61
+  intl: ^0.17.0
+  badges: ^2.0.2
+  license_plate_number: ^2.0.1
+  video_player: ^2.4.5
+  package_info_plus: ^1.4.2
+#  timelines: ^0.1.0
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/system/qrcode.png
+    - assets/images/system/logo.png
+    - assets/images/system/01.png
+    - assets/images/system/02.png
+    - assets/images/system/03.png
+    - assets/images/system/04.png
+    - assets/images/system/tel.png
+    - assets/images/system/run.png
+    - assets/images/system/done.png
+    - assets/images/system/reset.png

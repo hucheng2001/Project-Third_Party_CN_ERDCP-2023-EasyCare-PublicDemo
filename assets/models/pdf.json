@@ -1,0 +1,204 @@
+{
+  "direction": "0",
+  "rows": 31,
+  "sites": [
+    {
+      "nfc": "42CEC7AC",
+      "name": "3栋高压电房"
+    },
+    {
+      "nfc": "32D52DAC",
+      "name": "3栋低压照明房"
+    },
+    {
+      "nfc": "6242DFAC",
+      "name": "3栋发电机房"
+    },
+    {
+      "nfc": "32DCC8AC",
+      "name": "3栋低压动力房"
+    },
+    {
+      "nfc": "C2DCBAC9",
+      "name": "5栋高压电房"
+    },
+    {
+      "nfc": "8232D2AC",
+      "name": "5栋发电机房"
+    },
+    {
+      "nfc": "226523AD",
+      "name": "5栋低压电房"
+    },
+    {
+      "nfc": "B21766AD",
+      "name": "7栋发电机房"
+    },
+    {
+      "nfc": "3275DAAC",
+      "name": "7栋低压电房"
+    },
+    {
+      "nfc": "B2B1C7AC",
+      "name": "7栋高压电房"
+    },
+    {
+      "nfc": "D2650BAD",
+      "name": "四期A栋配电房"
+    },
+    {
+      "nfc": "E275B5AC",
+      "name": "三期配电房"
+    }
+  ],
+  "result": {
+    "id": 0,
+    "date": "",
+    "transformer": "",
+    "bus": "",
+    "cabinet_line": "",
+    "switch": "",
+    "capacitor": "",
+    "env_temp": "",
+    "noise": "",
+    "peculiar_smell": "",
+    "run_status": "",
+    "high_voltage": "",
+    "low_tension": ""
+  },
+  "res": {
+    "transformer": {
+      "label": "变压器",
+      "result": ""
+    },
+    "bus": {
+      "label": "红外检测/母线",
+      "result": ""
+    },
+    "cabinet_line": {
+      "label": "红外检测/柜内线",
+      "result": ""
+    },
+    "switch": {
+      "label": "红外检测/开关",
+      "result": ""
+    },
+    "contactor": {
+      "label": "红外检测/接触器",
+      "result": ""
+    },
+    "capacitor": {
+      "label": "红外检测/电容器",
+      "result": ""
+    },
+    "env_temp": {
+      "label": "环境温度℃）",
+      "result": ""
+    },
+    "noise": {
+      "label": "异响",
+      "result": ""
+    },
+    "peculiar_smell": {
+      "label": "异味",
+      "result": ""
+    },
+    "run_status": {
+      "label": "目测运行状态",
+      "result": ""
+    },
+    "high_voltage": {
+      "label": "高压",
+      "result": ""
+    },
+    "low_tension": {
+      "label": "低压",
+      "result": ""
+    },
+    "comment": {
+      "label": "Remark",
+      "result": ""
+    }
+  },
+  "results": [
+    {
+      "prop": "transformer",
+      "label": "变压器",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "bus",
+      "label": "红外检测/母线",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "cabinet_line",
+      "label": "红外检测/柜内线",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "switch",
+      "label": "红外检测/开关",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "contactor",
+      "label": "红外检测/接触器",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "capacitor",
+      "label": "红外检测/电容器",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "env_temp",
+      "label": "环境温度（≤35℃为合格）\n（输入数值即可）",
+      "result": "",
+      "checkType": "number",
+      "required": true
+    },
+    {
+      "prop": "noise",
+      "label": "异响",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "peculiar_smell",
+      "label": "异味",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "run_status",
+      "label": "目测运行状态",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "high_voltage",
+      "label": "仪表工作状态/高压",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "low_tension",
+      "label": "仪表工作状态/低压",
+      "result": "",
+      "checkType": "select"
+    },
+    {
+      "prop": "comment",
+      "label": "Remark",
+      "result": "",
+      "checkType": "input"
+    }
+  ]
+}
