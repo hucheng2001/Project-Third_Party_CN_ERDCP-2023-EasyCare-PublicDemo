@@ -2,6 +2,8 @@
 A mobile application designed and developed using the `Flutter` framework combined with `GetX` technology and `sqflite` technology.
 Fully leveraging modern state management and local database storage technologies, EasyCare is committed to providing a secure, convenient, and personalized user experience. Through innovative feature design and technical solutions, EasyCare combines relationship records and data privacy protection to provide users with a trustworthy and user-friendly electronic journal application.
 
+(Demo Apk in “Demo-Android” Branch/APK)
+
 ## Permissions and Privacy
 This repository is my personal development version of an earlier version of the project. Since the project has been transformed into a semi-commercial product, subsequent progress will not be made public, and the public version will be for learning purposes only, and will no longer be available for commercialization. (The repository has been edited and modified somewhat from the original project, and is being made public after review by the owner of the commercial project).
 
