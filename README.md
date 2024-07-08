@@ -1,6 +1,7 @@
 # [EasyCare] Project-WorkforThirdParty-CN_ERDCP-2023-EasyCare-PublicDemo
 A mobile application designed and developed using the `Flutter` framework combined with `GetX` technology and `sqflite` technology.
 Fully leveraging modern state management and local database storage technologies, EasyCare is committed to providing a secure, convenient, and personalized user experience. Through innovative feature design and technical solutions, EasyCare combines relationship records and data privacy protection to provide users with a trustworthy and user-friendly electronic journal application.
+
 (Demo Apk in “Demo-Android” Branch/APK)
 
 ## Permissions and Privacy
