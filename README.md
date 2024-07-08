@@ -53,7 +53,8 @@ The offline physiological cycle recording and prediction feature becomes more ac
 ### Design Similar to Instagram/WeChat Moments
 Detailed items can be recorded here, with a periodic reminder function. As the deadline approaches, reminders will be displayed on the homepage three days in advance.
 
-![event](https://github.com/hucheng2001/Project-Third_Party_CN_ERDCP-2023-EasyCare-PublicDemo/assets/55477525/1e4fa744-205d-4ffd-b229-6981f45b9a31)
+![tip_1720439436](https://github.com/hucheng2001/Project-Third_Party_CN_ERDCP-2023-EasyCare-PublicDemo/assets/55477525/0be59956-fad6-4638-99cc-4d3d454a42da)
+
 
 ### Memo To-Do Function
 For maintaining customer relationships, orderly recording of to-do items around customers is essential.
