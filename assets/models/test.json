@@ -1,0 +1,1005 @@
+{
+  "1642475205811": {
+    "pro_id": 1642475205811,
+    "pro_name_path": "root,车间公共区",
+    "pro_data": [
+      {
+        "content": "1、使用BOM核对表核对工单当前物料的一致性",
+        "criterion": "BOM核对表",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、点检电批头及电批扭力是否符合本岗位作业要求,确认电批扭力点检表记录情况",
+        "criterion": "参照各个型号、各个岗位SOP电批扭力参数要求",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "number"
+      },
+      {
+        "content": "3、工单尾数物料管理",
+        "criterion": "切换工单需要清理上个工单的物料，且工单物料需要按要求摆放并标记好",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、来料异常（扩散板、反射片、膜片）",
+        "criterion": "来料不良需OA反馈至相关负责人,由相关负责人跟进处理",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、监督LCM 模组车间温度18~25℃管控是否符合要求。",
+        "criterion": "18~25℃",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "number"
+      },
+      {
+        "content": "6、监督LCM 模组车间湿度40%~75%RH管控是否符合要求。",
+        "criterion": "40%~75%RH",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "number"
+      },
+      {
+        "content": "7、监督LCM 模组车间尘离子测试是否符合要求",
+        "criterion": "M1:0.5um≤352000颗/m³ M2:0.5um≤35200颗/m³",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "number"
+      },
+      {
+        "content": "8、确认LCM 模组车间FFU、离子风机、离子棒是否正常开启,吹风角度是否按要求吹送至部品上",
+        "criterion": "考虑离子风机去除静电和清洁异物功能",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "9、确认工装垫干净无异物,且表面无破损(有破损需及时更换布料)，是否有按照要求进行点检记录",
+        "criterion": "工装垫点检记录表",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "10、确认生产工单机型与配备支撑棒、治具型号是否正确",
+        "criterion": "治具不松动，与部品无干涉，确认工装垫定位柱按不同机型标示位置进行固定",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "11、产线人员按SOP要求穿戴无尘服、静电设备、手套及领袖",
+        "criterion": "不允许皮肤、毛发外漏，衣服干净，静电设备要接触皮肤",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "12、确认产线底部水槽状态",
+        "criterion": "水槽有水且不发臭",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "13、确认物料进出风淋室风孔风力是否正常、风淋时间是否充足",
+        "criterion": "风淋时间20S",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "14、确认物料进出风淋门是否按要求闭合",
+        "criterion": "需完全闭合",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "15、产线未正常生产时逃生门不允许长时间开启,且开启时风帘机需保持打开状态",
+        "criterion": "无尘车间管理规定",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "16、确认各岗位现场是否有对应生产机型SOP，作业员是否有按照SOP要求作业",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "17、车间内3定5S管理是否符合要求",
+        "criterion": "3定5S管理文件",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642475435183": {
+    "pro_id": 1642475435183,
+    "pro_name_path": "root,背板",
+    "pro_data": [
+      {
+        "content": "1、作业员放置背板后应使用吸尘器进行背板异物清洁(先清洁后撕胶带)",
+        "criterion": "不允许使用同一部吸尘器清洁背板与工装板",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、CB来料有无金属burr,螺丝孔里有无毛丝等异物",
+        "criterion": "不允许有异物",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、CB来料装载有无异常",
+        "criterion": "CB有无坍塌、正确使用护角、台车滚轮洁净度",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、检查背板是否存在划伤、变形、脏污、毛边披锋、生锈等不良",
+        "criterion": "",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、作业员是否有采用JIG检查背板无螺纹、螺柱缺失异常（此项SOP有规定才执行）",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642475480277": {
+    "pro_id": 1642475480277,
+    "pro_name_path": "root,LB安装",
+    "pro_data": [
+      {
+        "content": "1、灯条安装顺序及位置参照背板上的模刻标识,如L1对R1安装 L2对R2安装及灯条的摆放区分",
+        "criterion": "不允许左右混放，不同工单混放，灯条装反",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、查看灯条对准治具物料描述",
+        "criterion": "与当前生产机型吻合",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、灯条光电信息必须全部一致并记录到BOM核对表上",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、安装灯条灯条抬起角度不可超过15度",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、拿取、安装灯条一只手一次不只允许拿取超过二条且必须一次性安装到位",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "6、安装后若需拆卸灯条，拆卸的灯条禁止再次使用",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "7、锁附螺钉时使用定位治具进行垂直锁附(55寸)",
+        "criterion": "使用55寸防止锁坏灯条的治具",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "8、锁附完毕后使用检查治具进行螺钉锁附检查(55寸)",
+        "criterion": "在每根灯条下方背板处打点",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642475585883": {
+    "pro_id": 1642475585883,
+    "pro_name_path": "root,LB压合",
+    "pro_data": [
+      {
+        "content": "1、组装前按要求对设备进行点检并确认点检表记录",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、压合平台复位后需对准两端定位线",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、压合时间及压强参数按SOP规定进行设定(49、55寸模组)",
+        "criterion": "压合时间:10s 压强:0.3~0.9Mpa(CTP)",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642475617956": {
+    "pro_id": 1642475617956,
+    "pro_name_path": "root,LED驱动板",
+    "pro_data": [
+      {
+        "content": "1、检查LED驱动板与FFC线与当前生产工单一致，LED驱动板及FFC线外观无异常",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、确认作业员插线后使用大拇指进行按压确认",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、安装盖板作业员二次检查FFC插线情况并打点确认",
+        "criterion": "使用黑色笔标记在FFC上",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、驱动板压差治具确认",
+        "criterion": "治具显示绿色:OK; 治具显示红色:NG.",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、若有灯条不良需更换相同光电信息灯条，并再次使用按压治具按压灯条后再检查",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "6、T-CON安装按"
+        左A右B
+        "顺序安装--(88寸客诉问题点)，摆放位置分开，且桌面标记好AB",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "7、作业员是否有佩戴有绳静电环作业",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642475781978": {
+    "pro_id": 1642475781978,
+    "pro_name_path": "root,反射片安装",
+    "pro_data": [
+      {
+        "content": "1、扩散板支撑架安装后晃动检查确认支撑架固定情况",
+        "criterion": "支撑架固定无松动脱落现象",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、确认反射片放置方向是否正确",
+        "criterion": "确认反射片倒角位置与背板一致(其他膜片放置倒角亦一致)",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、安装反射片及模组支撑架的过程中员工需佩戴手套且不允许碰到灯条透镜",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、来料状态有无异常",
+        "criterion": "不允许有反射片不良，边缘碎屑多",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、安装完毕后作业员使用粘尘滚筒进行手套清洁",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "6、贴纸是否附着完全,是否有翘起/破损/粘性差等(手指按压3次)（98型号反射膜贴纸翘起导致ORT水平带）",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "7、确认粘尘滚筒表面脏污程度及更换情况",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642475849497": {
+    "pro_id": 1642475849497,
+    "pro_name_path": "root,安装中框",
+    "pro_data": [
+      {
+        "content": "1、中框需在M/E外摔打、擦拭、吸尘后再移至M/E内，手电筒照射（针对75寸及以上机型）、离子风机清洁",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、中框来料状态有无异常",
+        "criterion": "(台车清洁状态,有无油污等等)",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、中框安装OK后检查卡扣必须完全卡到位",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、每台模组中框安装完成后检查OK，双手需在粘尘滚筒上清洁",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、确认粘尘滚筒表面脏污程度及更换情况",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "6、中框随线清洁禁止使用酒精/IPA 擦拭  (sheet mura 风险)",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642475912697": {
+    "pro_id": 1642475912697,
+    "pro_name_path": "root,安装扩散板",
+    "pro_data": [
+      {
+        "content": "1、安装扩散板前需使用滚筒对扩散板四边及正面进行清洁并检查",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、扩散板定位柱全部安装到中框中",
+        "criterion": "扩散板粗糙面朝下，光滑面朝上",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、每台模组扩散板安装完成后检查OK，双手需在粘尘滚筒上清洁",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、确认粘尘滚筒表面脏污程度及更换情况",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、扩散板从工作台拿取安装时是否有按要求经过离子棒进行静电消除",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "6、确认粘尘滚筒表面脏污程度及更换情况",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476010920": {
+    "pro_id": 1642476010920,
+    "pro_name_path": "root,安装膜片",
+    "pro_data": [
+      {
+        "content": "1、每台模组膜片安装完成后检查OK，双手需在粘尘滚筒上清洁",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、确认粘尘滚筒表面脏污程度及更换情况",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476050176": {
+    "pro_id": 1642476050176,
+    "pro_name_path": "root,固定DEBF",
+    "pro_data": [
+      {
+        "content": "1、复合膜卡扣折成90度,每个挂扣都必须扣到位",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、确认复合膜撕膜时间(75寸以上机型)",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、撕膜后使用粘尘滚筒进行清洁(75寸以上机型)",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476085224": {
+    "pro_id": 1642476085224,
+    "pro_name_path": "root,LQC",
+    "pro_data": [
+      {
+        "content": "1、每台模组膜片检查完后双手需在粘尘滚筒上清洁，确认粘尘滚筒洁净度",
+        "criterion": "粘尘滚筒洁净度参考SOP-粘尘滚筒脏污等级",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、禁止带电插拔",
+        "criterion": "",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476128783": {
+    "pro_id": 1642476128783,
+    "pro_name_path": "root,贴单面背胶带",
+    "pro_data": [
+      {
+        "content": "1、贴白色胶带必须平整不可超出中框上边及未盖住孔位",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、白色胶带与黑色胶带有无遗漏",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、贴Tape人员是否按基准配位",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476168422": {
+    "pro_id": 1642476168422,
+    "pro_name_path": "root,OC安装",
+    "pro_data": [
+      {
+        "content": "1、撕膜保持匀速且按规定时间进行撕除（分机型）、确认静电夹使用状态、确认86寸条形屏撕膜位置",
+        "criterion": "静电夹与COF接触 86寸条形屏于ME房进行撕膜",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、确认装玻璃是否正确装置到位,四周是否正确装置到位",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、确认装玻璃顺序正确",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、插接FFC线必须平行插接到位",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、玻璃涂布使用专用油漆笔,涂布工艺按SOP要求进行(55寸模组)",
+        "criterion": "55A1、A2天侧左右第二个COF进行涂布(中间不涂布);55A3、A4全涂",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "6、安装OC作业员是否有佩戴有绳静电环作业",
+        "criterion": "需佩戴有绳静电环作业",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476245470": {
+    "pro_id": 1642476245470,
+    "pro_name_path": "root,前框安装",
+    "pro_data": [
+      {
+        "content": "1、使用治具进行前框安装",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、长边治具先上后下，短边治具先左后右的顺序安装(49寸模组)",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、从中间向左右的顺序固定螺钉",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、上下层螺钉不可用混(49、55寸模组)",
+        "criterion": "不同螺钉分开放置",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、螺钉物料摆放--不同料号螺钉需区分摆放并标识",
+        "criterion": "",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "6、面框螺钉锁附时,按"
+        从中间到两边
+        "顺序进行锁附",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476529381": {
+    "pro_id": 1642476529381,
+    "pro_name_path": "root,T-CON,新项目",
+    "pro_data": [
+      {
+        "content": "1、C-PCB air clean进行吹Pin异物。使用风枪吹PCB清洁",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、T-CON板料号、描述是否符合工单要求",
+        "criterion": "BOM核对表",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、安装OC作业员是否有佩戴有绳静电环作业",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476568693": {
+    "pro_id": 1642476568693,
+    "pro_name_path": "root,插接连接线,新项目",
+    "pro_data": [
+      {
+        "content": "1、FFC线插接到位，无歪斜或插接不到位现象",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、FFC插接辅助JIG (开发issue: Gate L/D)",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、拇指按压FFC线，FFC线无超出面框外侧，无接触面框",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、画面检查时使用点亮治具进行检查(49、55寸客诉问题点)",
+        "criterion": "灯条损坏、FFC未插好，会报警亮灯",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642476624622": {
+    "pro_id": 1642476624622,
+    "pro_name_path": "root,LCM修理,新项目",
+    "pro_data": [
+      {
+        "content": "1、离子风机正常开启",
+        "criterion": "点检记录表",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、拆除部品禁止放置地面，带手套",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、拆除部品需标识并区分摆放",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、拆解下来的中框需要重新清洗",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、中框拆解禁止使用刀片",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "6、维修使用台车与产品是否有干涉(产品背部)",
+        "criterion": "目视干涉/划线定位",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  },
+  "1642477271703": {
+    "pro_id": 1642477271703,
+    "pro_name_path": "root,HSF确认,新项目",
+    "pro_data": [
+      {
+        "content": "1、确认产线人员是否有经过HSF管理培训。",
+        "criterion": "",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "2、确认制程设备使用前是否通过验收并进行保养清洁。",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "3、确认工单物料使用是否正确。",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "4、确认各岗位是否配备了正确的SOP，并有按SOP要求作业。",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      },
+      {
+        "content": "5、确认生产环境是否符合HSF要求。",
+        "criterion": "参考SOP基准",
+        "edit": false,
+        "check": "",
+        "problem": "",
+        "method": "",
+        "mark": "ok_or_ng"
+      }
+    ]
+  }
+}

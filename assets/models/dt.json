@@ -1,0 +1,361 @@
+{
+  "direction": "1",
+  "rows": 21,
+  "sites": [
+    {
+      "nfc": "1231DCAB",
+      "name": "1-3号货梯机房"
+    },
+    {
+      "nfc": "F2C3D3AC",
+      "name": "4-6号货梯机房"
+    },
+    {
+      "nfc": "B2EF2FAD",
+      "name": "7-9号货梯机房"
+    },
+    {
+      "nfc": "42D72EAC",
+      "name": "10-12号货梯机房"
+    },
+    {
+      "nfc": "F2A0E1AB",
+      "name": "13-15号货梯机房"
+    },
+    {
+      "nfc": "22D9F3AB",
+      "name": "16-18号货梯机房"
+    },
+    {
+      "nfc": "E26061AD",
+      "name": "19-20号货梯机房"
+    },
+    {
+      "nfc": "D21E9EAB",
+      "name": "21号客梯机房"
+    },
+    {
+      "nfc": "F286DFAB",
+      "name": "22号食堂客梯机房"
+    },
+    {
+      "nfc": "128EC0AC",
+      "name": "23-25号货梯机房"
+    },
+    {
+      "nfc": "628083AB",
+      "name": "26-28号货梯机房"
+    },
+    {
+      "nfc": "1243AAAB",
+      "name": "29-31号货梯机房"
+    },
+    {
+      "nfc": "7C18CD1A",
+      "name": "32-34号货梯机房"
+    },
+    {
+      "nfc": "D2E9BEAC",
+      "name": "35-37号货梯机房"
+    },
+    {
+      "nfc": "32439CAB",
+      "name": "38-40号货梯机房"
+    },
+    {
+      "nfc": "627AD4AC",
+      "name": "41号客梯机房"
+    },
+    {
+      "nfc": "8218D1AC",
+      "name": "42号客梯机房"
+    },
+    {
+      "nfc": "82F75CAB",
+      "name": "43号客梯机房"
+    },
+    {
+      "nfc": "1251CCAB",
+      "name": "44号客梯机房"
+    },
+    {
+      "nfc": "B2862FAC",
+      "name": "45-47号货梯机房"
+    },
+    {
+      "nfc": "924A30AD",
+      "name": "48-50号货梯机房"
+    },
+    {
+      "nfc": "82C86AAC",
+      "name": "51-54号客梯机房"
+    },
+    {
+      "nfc": "B25B60AD",
+      "name": "55号客梯机房"
+    },
+    {
+      "nfc": "A27C0AAC",
+      "name": "56-57号货梯机房"
+    },
+    {
+      "nfc": "DCC0B31A",
+      "name": "58-59号货梯机房"
+    }
+  ],
+  "result": {
+    "id": 0,
+    "nfc": "",
+    "result": ""
+  },
+  "res": {
+    "electricityBox": {
+      "label": "电梯机房配电箱",
+      "result": ""
+    },
+    "envi-Health": {
+      "label": "机房环境卫生",
+      "result": ""
+    },
+    "machineRoom-temp": {
+      "label": "机房温度高（5~40度）",
+      "result": ""
+    },
+    "controlScreen-Sound": {
+      "label": "控制屏声音运行情况",
+      "result": ""
+    },
+    "converter-fan": {
+      "label": "变频器风扇运行情况",
+      "result": ""
+    },
+    "tractor-run": {
+      "label": "曳引机运行状态",
+      "result": ""
+    },
+    "band-type-brake": {
+      "label": "抱闸工作状态",
+      "result": ""
+    },
+    "speed-governor": {
+      "label": "限速器运行状态",
+      "result": ""
+    },
+    "liftCar-Lighting-fan": {
+      "label": "轿厢照明、风扇状态",
+      "result": ""
+    },
+    "liftCar-level": {
+      "label": "轿厢平层度",
+      "result": ""
+    },
+    "liftCar-emerLighting": {
+      "label": "轿厢应急照明",
+      "result": ""
+    },
+    "intercom-system": {
+      "label": "对讲机系统",
+      "result": ""
+    },
+    "outbound-display": {
+      "label": "外呼按钮及显示",
+      "result": ""
+    },
+    "liftCar-display": {
+      "label": "轿厢按钮及显示",
+      "result": ""
+    },
+    "liftCar-alarm-bell": {
+      "label": "轿厢警铃",
+      "result": ""
+    },
+    "safety-device": {
+      "label": "轿门安全装置",
+      "result": ""
+    },
+    "liftCar-stable-level": {
+      "label": "轿厢运行平稳度",
+      "result": ""
+    },
+    "IF-normal": {
+      "label": "开关门是否正常",
+      "result": ""
+    },
+    "doorLock-state": {
+      "label": "门锁状态",
+      "result": ""
+    },
+    "IF-door-Collision": {
+      "label": "层门无碰撞",
+      "result": ""
+    },
+    "IF-foreign-matter": {
+      "label": "地坎有无异物",
+      "result": ""
+    },
+    "content": {
+      "label": "Remark",
+      "result": ""
+    }
+  },
+  "results": [
+    {
+      "prop": "electricityBox",
+      "label": "电梯机房配电箱",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "envi-Health",
+      "label": "机房环境卫生",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "machineRoom-temp",
+      "label": "机房温度高（5~40度）",
+      "result": "",
+      "checkType": "number",
+      "required": true
+    },
+    {
+      "prop": "controlScreen-Sound",
+      "label": "控制屏声音运行情况",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "converter-fan",
+      "label": "变频器风扇运行情况",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "tractor-run",
+      "label": "曳引机运行状态",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "band-type-brake",
+      "label": "抱闸工作状态",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "speed-governor",
+      "label": "限速器运行状态",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "liftCar-Lighting-fan",
+      "label": "轿厢照明、风扇状态",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "liftCar-level",
+      "label": "轿厢平层度",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "liftCar-emerLighting",
+      "label": "轿厢应急照明",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "intercom-system",
+      "label": "对讲机系统",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "outbound-display",
+      "label": "外呼按钮及显示",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "liftCar-display",
+      "label": "轿厢按钮及显示",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "liftCar-alarm-bell",
+      "label": "轿厢警铃",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "safety-device",
+      "label": "轿门安全装置",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "liftCar-stable-level",
+      "label": "轿厢运行平稳度",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "IF-normal",
+      "label": "开关门是否正常",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "doorLock-state",
+      "label": "门锁状态",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "IF-door-Collision",
+      "label": "层门无碰撞",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "IF-foreign-matter",
+      "label": "地坎有无异物",
+      "result": "",
+      "checkType": "select_dt"
+    },
+    {
+      "prop": "content",
+      "label": "Remark",
+      "result": "",
+      "checkType": "input"
+    }
+  ],
+  "check_items": [
+    "电梯机房配电箱",
+    "机房环境卫生",
+    "机房温度高（5~40度）",
+    "控制屏声音运行情况",
+    "变频器风扇运行情况",
+    "曳引机运行状态",
+    "抱闸工作状态",
+    "限速器运行状态",
+    "轿厢照明、风扇状态",
+    "轿厢平层度",
+    "轿厢应急照明",
+    "对讲机系统",
+    "外呼按钮及显示",
+    "轿厢按钮及显示",
+    "轿厢警铃",
+    "轿门安全装置",
+    "轿厢运行平稳度",
+    "开关门是否正常",
+    "门锁状态",
+    "层门无碰撞",
+    "地坎有无异物",
+    "Remark"
+  ],
+  "remark": "Remark：\n√: 表示正常；\nX：表示不正常；\n0：表示调整、维修、清洁；\n△：监管运行。"
+}
