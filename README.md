@@ -33,7 +33,7 @@ Its main features include:
 - **Asynchronous Operations**: sqflite supports asynchronous database operations to avoid blocking the UI thread and improve application smoothness.
 - **Data Security**: Storing data in a local database enhances user privacy protection, mitigating security risks associated with sensitive data transmission over networks.
 
-## III. Creative Ideas
+## III. Innovation & Implement
 EasyCare's inspiration comes from the need for relationship records by users, combining scenarios for reminding notes between couples and maintaining customer relationships.
 ### Design of Account Isolation
 Although it is an offline application, account registration and login are still designed to isolate data using accounts. Even if someone gains access to the phone without knowing the account password, they cannot access relevant data, and there are multiple layers of accounts for masking.
