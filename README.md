@@ -52,6 +52,7 @@ The offline physiological cycle recording and prediction feature becomes more ac
 
 ### Design Similar to Instagram/WeChat Moments
 Detailed items can be recorded here, with a periodic reminder function. As the deadline approaches, reminders will be displayed on the homepage three days in advance.
+
 ![event_1720439426](https://github.com/hucheng2001/Project-Third_Party_CN_ERDCP-2023-EasyCare-PublicDemo/assets/55477525/89a0225d-f144-47c2-8498-c231d023e3e6)
 ![tip_1720439436](https://github.com/hucheng2001/Project-Third_Party_CN_ERDCP-2023-EasyCare-PublicDemo/assets/55477525/ba80299e-6266-4daf-8711-18e88da0eca9)
 
